@@ -1,6 +1,6 @@
 # SimpleWebServerAppWithNodeJS
 Simple Web App with Node.js
-***
+
 ## Khởi tạo project
 
 `npm init`
