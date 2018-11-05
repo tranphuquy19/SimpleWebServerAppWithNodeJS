@@ -3,11 +3,15 @@ Simple Web App with Node.js
 
 ## Khởi tạo project
 
-`npm init`
+```sh
+$ npm init
+```
 ***
 ## Install package Express
 
-`npm install express ejs`
+```sh
+$ npm install express ejs
+```
 
 Express.js (Hoặc đơn giản là Express) là một Web Application Framework cho NodeJS. Cung cấp bộ tính năng mạnh mẽ cho các ứng dụng web và mobile.
 
