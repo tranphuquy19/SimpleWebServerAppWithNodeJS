@@ -6,7 +6,6 @@ Simple Web App with Node.js
 ```sh
 $ npm init
 ```
-***
 ## Install package Express
 
 ```sh
